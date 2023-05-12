@@ -1,25 +1,7 @@
----
-title: Vite
-description: Example Vite app that is configured to just work out of the box.
-tags:
-  - vite
----
+# Vue 3 + Vite
 
-# Vite
-This example utilises vite for static site generation
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/B0Cef9?referralCode=OH27A5)
+## Recommended IDE Setup
 
-## ✨ Features
-
-- Vite
-
-## 💁‍♀️ How to use
-
-- Install dependencies `yarn`
-- Connect to your Railway project `railway link`
-- Start the development server `railway run yarn dev`
-
-## 📝 Notes
-
-The project is directly derived from the standard creation with some extra configuration to make sure it is quick and easy to get started on hosting your next site with railway. 
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
